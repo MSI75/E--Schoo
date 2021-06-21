@@ -31,15 +31,20 @@
 .card{
     border: none;
     background: #FFFFFF;
-    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    box-shadow: 5px 20px 40px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
+    
 }
 .size{
     width: 100px;
     height: 100px;
-}
-.body{
     text-align: center;
+}
+.one{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: none;
 }
 .topic{
     text-align: center;
