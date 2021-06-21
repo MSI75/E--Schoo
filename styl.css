@@ -1,0 +1,58 @@
+.container{
+    margin-bottom: 50px;
+}
+.gray{
+    color:black;
+}
+.button-e{
+    border: none;
+    background-color: #21B573;
+    border-radius: 15px;
+    padding: 10px 25px;
+    color: white;
+}
+.color{
+    color:#21B573 ;
+}
+.red{
+    color: #FD511A;
+}
+.cai{
+    color: #6C6B6B;
+    
+}
+.bg{
+    background-color:#F0FFF0;
+    
+}
+.some{
+    font-size: 100px;
+}
+.card{
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.size{
+    width: 100px;
+    height: 100px;
+}
+.body{
+    text-align: center;
+}
+.topic{
+    text-align: center;
+}
+.last{
+    color: white;
+}
+footer{
+    text-align: center;
+    
+}
+.second{
+    background-color:#282531;
+    color: white;
+    padding: 50px;
+}
